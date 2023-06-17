@@ -8,6 +8,6 @@ Set personalized financial goals and let BudgetBud monitor your progress. Whethe
 
 Live Demo: https://budget-bud.vercel.app/
 
-![1](./Screenshot (170).png)\
-![2](./Screenshot (171).png)\
-![3](./Screenshot (172).png)
+![1](/Screenshot%20(170).png)\
+![2](./Screenshot%20(171).png)\
+![3](./Screenshot%20(172).png)
