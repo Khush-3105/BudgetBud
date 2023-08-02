@@ -60,7 +60,6 @@ const AddBudgetForm = () => {
             isSubmitting ? <span>Submitting…</span> : (
               <>
                 <span>Create budget</span>
-                <CurrencyDollarIcon width={20} />
               </>
             )
           }
